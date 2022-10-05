@@ -2,8 +2,7 @@
 
 ### Primeiras informações sobre como criar, configurar e utilizar o Git e Github.
 
- - #### Geração de chave SSH.
-
-No site do GitHub
-Setings : SSH Keys
-
+- Utilização do GitBash
+- geração de chave SSH
+- criação do SSH agent
+- método mais simples para acessar e commitar arquivos para o GitHub
